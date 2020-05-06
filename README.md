@@ -1,16 +1,14 @@
-# ayer
+# Ayer
 
-A new Flutter project.
+A flutter test project for fetching weather data from http://openweathermap.org/ using zipcode.
 
-## Getting Started
+## Purpose
 
-This project is a starting point for a Flutter application.
+- Requirement for technical interview at ALERTUS.
 
-A few resources to get you started if this is your first Flutter project:
+## Running the app
+   To run the application you must have a flutter version of Flutter 1.7.8+hotfix.2 and Dart 2.4.0. Then run the following code.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- `flutter run`
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Make sure you have a connected device/emulator.
